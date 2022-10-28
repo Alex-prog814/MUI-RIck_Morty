@@ -1,0 +1,7 @@
+1. Создать проект, очистить его, создать дб.жсон
+2. Установить библиотеки аксиос, реакт роутер дом 
+3. Установить материал юай: 
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+4. Создадим компоненты навбар, футер, пгинация, карточки и список карточек, все это дело стилизуем
